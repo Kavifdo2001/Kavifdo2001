@@ -56,9 +56,6 @@ I’m a passionate and motivated web developer specializing in **Laravel** with 
 
 ## 🚀 Projects Showcase
 
-- [🩺 Attendance System](https://github.com/nimalsha/attendance-system)
-- [🛍️ Laravel E-commerce Cart](https://github.com/nimalsha/laravel-cart)
-- [📝 Quotation PDF Generator](https://github.com/nimalsha/pdf-quotation)
 
 ---
 

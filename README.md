@@ -14,7 +14,7 @@ I’m a passionate and motivated web developer specializing in **Laravel** with 
 - 🌱 Learning React, Tailwind CSS, and RESTful APIs.
 - 💬 Ask me about PHP, Laravel, MySQL, Java, and Web App Architecture.
 - 🧠 Interested in improving my skills in UI/UX and clean code principles.
-- 📫 Reach me at: **youremail@example.com**
+- 📫 Reach me at: **kavinduf774@gmail.com**
 
 ---
 

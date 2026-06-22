@@ -47,12 +47,6 @@ I’m a passionate and motivated web developer specializing in **Laravel** with 
 
 ---
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nimalsha&theme=radical)
-
----
-
 ## 🚀 Projects Showcase
 
 

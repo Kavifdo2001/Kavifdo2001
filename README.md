@@ -1,7 +1,6 @@
 <h1 align="center">🚀 Hi, I'm Nimalsha 🚀</h1>
 <p align="center">
-🔹 Laravel Web Developer | Undergraduate | Associate Software engineer 🔹<br>
-nimalsha
+🔹 Web Developer |Associate Software engineer 🔹<br>
 </p>
 
 ---

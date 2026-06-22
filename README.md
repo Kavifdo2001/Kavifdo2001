@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Hi, I'm Nimalsha 🚀</h1>
 <p align="center">
-🔹 Web Developer | Associate Software engineer 🔹<br>
+🔹 Associate Software engineer 🔹<br>
 </p>
 
 ---

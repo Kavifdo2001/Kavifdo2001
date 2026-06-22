@@ -52,14 +52,5 @@ I’m a passionate and motivated web developer specializing in **Laravel** with 
 
 ---
 
-## 🎯 Goals for 2025
-
-- 🌱 Master Tailwind CSS & React Integration with Laravel.
-- 🛡️ Learn and implement security best practices.
-- 🚀 Deploy my own SaaS product.
-- 📚 Contribute to Open Source Projects.
-- 💡 Learn advanced design patterns and system architecture.
-
----
 
 <p align="center">Nimalsha</p>
